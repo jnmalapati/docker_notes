@@ -1,7 +1,0 @@
-
-#Swarm Mode Theory
-~ new stuff in docker 1.12 and later....
-
-A cluster = A swarm
-Engines in a swarm run in swarm mode
-It's all about true native clustering
